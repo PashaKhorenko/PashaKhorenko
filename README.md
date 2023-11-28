@@ -1,7 +1,7 @@
 <h1 align="center"> Hello there 👋, I'm Pasha Khorenko</h1>
 <h3 align="center">I'm a beginner IOS developer from Kyiv</h3>
 
-<img align= "right" alt=Coding width= 400 src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align= "right" alt=Coding width= 400 src="https://private-user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDExODM0NDAsIm5iZiI6MTcwMTE4MzE0MCwicGF0aCI6Ii8xOTc4MzY3NS8yNTk5MDYxMzAtNWQzYzg4MDAtZmIwMC00NWQwLWI5ZGQtN2ViODJmMDU3YmFmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzExMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMTI4VDE0NTIyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg3YTcwZDdlZmQwZDViZWFlYzVhNzgyZmY4YjI4ZDA5ZmY0NWY0MzJjNGY0MGFhMzFjOWMxMjBkNjMyYzY0OTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.596Z6B120BIg2EGmo5RnkuYL8ucaECLc-YBQGARVKHw">
 
 - 👨‍💻 Learning all about: `Swift`, `iOS`, `Xcode`, `UIKit`, `Apple` <br>
 - 📬 How to reach me: <ul> <li>
